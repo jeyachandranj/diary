@@ -1,0 +1,31 @@
+.head{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 80px;
+    margin-right: 460px;
+    background-color:black;
+    color: white;
+    
+}
+.body{
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 330px;
+    margin-bottom: 80px;
+    margin-right: 250px;
+}
+h4{
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-bottom: 80px;
+    margin-right: 250px;
+}
+.btn{
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-bottom: 80px;
+    margin-right: 10px;
+}

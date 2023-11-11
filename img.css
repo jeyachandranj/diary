@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 435px;
+    margin-bottom: 80px;
+    margin-right: 445px;
+    background-color:black;
+    color: white;
+    
+}
+body{
+    background-image: url("images\ \(3\).jpeg");
+}
+.card-title
+{
+    text-align: center;
+}
+.card-text
+{
+    text-align: center;
+}
